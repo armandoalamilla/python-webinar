@@ -1,2 +1,2 @@
 # python-webinar
-wbinar python practice
+webinar python practice
